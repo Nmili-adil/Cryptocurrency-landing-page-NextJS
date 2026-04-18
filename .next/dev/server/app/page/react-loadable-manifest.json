@@ -1,0 +1,10 @@
+{
+  "[project]/src/components/CryptoCanvas.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/CryptoCanvas.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_three_build_three_module_12n2-ho.js",
+      "static/chunks/src_components_CryptoCanvas_tsx_0v1j_5-._.js",
+      "static/chunks/src_components_CryptoCanvas_tsx_13f7z5b._.js"
+    ]
+  }
+}
