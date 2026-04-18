@@ -113,7 +113,7 @@ export function Footer() {
             All systems operational
           </div>
           <p className="text-sm text-white/25">
-            Regulated by FinCEN · FDIC Insured Partners
+            Regulated by Adil-Nmili · Adil_Nmili Insured Partners
           </p>
         </div>
       </div>
